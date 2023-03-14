@@ -4,7 +4,7 @@ navbar.querySelector('.toggle').addEventListener('click',()=>{
 	
 	navbar.classList.toggle('collapsed')
 	
-})
+});
 
 
 
@@ -20,4 +20,4 @@ window.addEventListener('scroll',(e)=>{
 	
 	
 	
-})
+});
